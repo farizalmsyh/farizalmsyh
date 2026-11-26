@@ -22,7 +22,7 @@
 ## ⚡ What I Do
 
 ```yaml
-Role: Tech Enthusiast
+Role: Freelance Software Engineer
 Daily Drivers: Go, Nuxt/Vue, Next.js, NestJS, Laravel, PostgreSQL, Docker
 Location: Jakarta, Indonesia
 Focus: High-availability Web Apps, REST APIs, Realtime Systems (WebSocket/MQTT), Cloud Services
