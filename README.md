@@ -78,8 +78,8 @@ Focus: High-availability Web Apps, REST APIs, Realtime Systems (WebSocket/MQTT),
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=farizalmsyh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=farizalmsyh&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=farizalmsyh&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizalmsyh&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 
 <br/>
 
