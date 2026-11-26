@@ -1,13 +1,6 @@
 <div align="center">
 
-# Hi there, I'm <a href="https://farizalmsyh.dev" target="_blank">Fariz Alamsyah</a> 👋
-### Tech Enthusiast
-
-<p align="center">
-  <a href="https://farizalmsyh.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=550&height=45&lines=Shipping+Production+Apps+since+2021;Go+%7C+Next.js+%7C+Nuxt+%7C+NestJS+%7C+Laravel;High-Availability+Web+%26+Realtime+APIs" alt="Typing SVG" />
-  </a>
-</p>
+# Tech Enthusiast
 
 <p align="center">
   <a href="mailto:farizalmsyh.dev@gmail.com"><img src="https://img.shields.io/badge/Email-farizalmsyh.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
