@@ -43,37 +43,6 @@ Focus: High-availability Web Apps, REST APIs, Realtime Systems (WebSocket/MQTT),
 
 ---
 
-## 🚀 Key Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌱 Plantera IoT Monitoring</h3>
-      <p>IoT smart farming Android app for Pusat Laboratorium Terpadu UIN Jakarta. Real-time telemetry processing with speed boost 25% via WebSocket & MQTT.</p>
-      <p><code>NestJS</code> <code>React Native (Expo)</code> <code>MQTT</code> <code>WebSocket</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💳 Frapomate POS System</h3>
-      <p>Point-of-sales & subscription platform. Drove a 40% increase in user engagement with streamlined checkout and transaction flows.</p>
-      <p><code>Next.js</code> <code>Subscription Management</code> <code>Tailwind</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📊 Pegadaian Training Dashboard</h3>
-      <p>Enterprise training analytics dashboard running on GCP serverless with BigQuery for large-scale employee data processing.</p>
-      <p><code>Nuxt</code> <code>Node.js</code> <code>Cloud Run</code> <code>BigQuery</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎓 Elingway LMS</h3>
-      <p>Interactive learning management platform with Midtrans payment gateway, course management, and realtime notifications via Pusher.</p>
-      <p><code>Laravel</code> <code>Vue.js</code> <code>Angular</code> <code>PostgreSQL</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 Live GitHub Analytics
 
 <div align="center">
