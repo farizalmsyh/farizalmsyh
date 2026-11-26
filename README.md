@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm <a href="https://farizalmsyh.dev" target="_blank">Fariz Alamsyah</a> 👋
-### Full-Stack Developer
+### Tech Enthusiast
 
 <p align="center">
   <a href="https://farizalmsyh.dev">
@@ -22,7 +22,7 @@
 ## ⚡ What I Do
 
 ```yaml
-Role: Full-Stack Developer
+Role: Tech Enthusiast
 Daily Drivers: Go, Nuxt/Vue, Next.js, NestJS, Laravel, PostgreSQL, Docker
 Location: Jakarta, Indonesia
 Focus: High-availability Web Apps, REST APIs, Realtime Systems (WebSocket/MQTT), Cloud Services
