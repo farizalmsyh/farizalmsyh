@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:farizalmsyh.dev@gmail.com"><img src="https://img.shields.io/badge/Email-farizalmsyh.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://farizalmsyh.dev"><img src="https://img.shields.io/badge/Portfolio-farizalmsyh.dev-0284C7?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
-  <a href="https://github.com/farizalmsyh"><img src="https://img.shields.io/badge/GitHub-farizalmsyh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:farizalmsyh.dev@gmail.com"><img src="https://img.shields.io/badge/farizalmsyh.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://farizalmsyh.dev"><img src="https://img.shields.io/badge/farizalmsyh.dev-0284C7?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/farizalmsyh"><img src="https://img.shields.io/badge/farizalmsyh-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
