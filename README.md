@@ -1,17 +1,17 @@
 <div align="center">
 
-# Hi there, I'm <a href="https://farizalmsyh.my.id" target="_blank">Fariz Alamsyah</a> 👋
-### Full-Stack Developer & Homelab Tinkerer
+# Hi there, I'm <a href="https://farizalmsyh.dev" target="_blank">Fariz Alamsyah</a> 👋
+### Full-Stack Developer
 
 <p align="center">
-  <a href="https://farizalmsyh.my.id">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=550&height=45&lines=Shipping+Production+Apps+since+2021;Go+%7C+Next.js+%7C+Nuxt+%7C+NestJS+%7C+Laravel;Homelab+%26+Cloud+Native+Enthusiast" alt="Typing SVG" />
+  <a href="https://farizalmsyh.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=550&height=45&lines=Shipping+Production+Apps+since+2021;Go+%7C+Next.js+%7C+Nuxt+%7C+NestJS+%7C+Laravel;High-Availability+Web+%26+Realtime+APIs" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:farizalmsyh.dev@gmail.com"><img src="https://img.shields.io/badge/Email-farizalmsyh.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://farizalmsyh.my.id"><img src="https://img.shields.io/badge/Portfolio-farizalmsyh.my.id-0284C7?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
+  <a href="https://farizalmsyh.dev"><img src="https://img.shields.io/badge/Portfolio-farizalmsyh.dev-0284C7?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/farizalmsyh"><img src="https://img.shields.io/badge/GitHub-farizalmsyh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -22,11 +22,10 @@
 ## ⚡ What I Do
 
 ```yaml
-Current Role: Full-Stack Developer @ MyOrbit (MyCareer talent platform)
-Daily Drivers: Go, Nuxt/Vue, Next.js, NestJS, PostgreSQL, Docker
-Homelab Stack: Nginx Reverse Proxy, PM2, Docker Microservices, Self-Hosted LLM
+Role: Full-Stack Developer
+Daily Drivers: Go, Nuxt/Vue, Next.js, NestJS, Laravel, PostgreSQL, Docker
 Location: Jakarta, Indonesia
-Focus: High-availability Web APIs, Realtime Systems (WebSocket/MQTT), Cloud/Homelab Ops
+Focus: High-availability Web Apps, REST APIs, Realtime Systems (WebSocket/MQTT), Cloud Services
 ```
 
 ---
@@ -49,26 +48,26 @@ Focus: High-availability Web APIs, Realtime Systems (WebSocket/MQTT), Cloud/Home
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">💼 MyCareer Platform</h3>
-      <p>Talent & career ecosystem. Scalable <b>Go API</b> backend, <b>Nuxt.js</b> frontend, and <b>PostgreSQL</b> for high concurrency hiring workflows.</p>
-      <p><code>Go</code> <code>Nuxt.js</code> <code>PostgreSQL</code> <code>REST</code></p>
-    </td>
-    <td width="50%">
       <h3 align="center">🌱 Plantera IoT Monitoring</h3>
-      <p>IoT smart farming Android app for PLT UIN Jakarta. Real-time telemetry processing with speed boost 25% via WebSocket & MQTT.</p>
+      <p>IoT smart farming Android app for Pusat Laboratorium Terpadu UIN Jakarta. Real-time telemetry processing with speed boost 25% via WebSocket & MQTT.</p>
       <p><code>NestJS</code> <code>React Native (Expo)</code> <code>MQTT</code> <code>WebSocket</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">💳 Frapomate POS System</h3>
       <p>Point-of-sales & subscription platform. Drove a 40% increase in user engagement with streamlined checkout and transaction flows.</p>
       <p><code>Next.js</code> <code>Subscription Management</code> <code>Tailwind</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">📊 Pegadaian Training Dashboard</h3>
       <p>Enterprise training analytics dashboard running on GCP serverless with BigQuery for large-scale employee data processing.</p>
       <p><code>Nuxt</code> <code>Node.js</code> <code>Cloud Run</code> <code>BigQuery</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎓 Elingway LMS</h3>
+      <p>Interactive learning management platform with Midtrans payment gateway, course management, and realtime notifications via Pusher.</p>
+      <p><code>Laravel</code> <code>Vue.js</code> <code>Angular</code> <code>PostgreSQL</code></p>
     </td>
   </tr>
 </table>
